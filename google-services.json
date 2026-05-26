@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "689694564751",
+    "project_id": "watersafetyapp",
+    "storage_bucket": "watersafetyapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:689694564751:android:2d6100c438fd5469a86bfa",
+        "android_client_info": {
+          "package_name": "com.example.water_flow"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDg9IZ2iTEISnc717wHpnGQ8VMLXxMz--0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
